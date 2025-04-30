@@ -1,0 +1,6 @@
+Machine learning is a field of computer science that gives computers the ability to learn without being explicitly programmed. In IT, machine learning is used for software testing, bug prediction, and even automating documentation.
+
+Software development also benefits from AI tools. These tools improve code quality, assist developers, and help reduce bugs. Automation testing with machine learning enhances the speed and reliability of software delivery.
+
+Data science and artificial intelligence are revolutionizing how IT companies operate in India.
+

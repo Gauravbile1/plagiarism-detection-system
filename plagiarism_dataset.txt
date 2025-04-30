@@ -1,0 +1,17 @@
+--- doc1.txt ---
+The Software Development Life Cycle (SDLC) is a systematic process for building software that ensures the quality and correctness of the software built. It consists of phases such as requirement analysis, design, implementation, testing, deployment, and maintenance.
+
+--- doc2.txt ---
+SDLC or Software Development Life Cycle is a step-by-step approach used to develop software. It includes stages like gathering requirements, designing, coding, testing, deploying, and providing ongoing support.
+
+--- doc3.txt ---
+Agile is a project management methodology that involves continuous iteration of development and testing. It promotes adaptive planning, evolutionary development, early delivery, and continuous improvement.
+
+--- doc4.txt ---
+Agile is a project management methodology that involves continuous iteration of development and testing. It promotes adaptive planning, evolutionary development, early delivery, and continuous improvement.
+
+--- doc5.txt ---
+DevOps is a combination of development and operations. It emphasizes collaboration between software developers and IT operations with the goal of shortening the systems development life cycle and providing continuous delivery with high software quality.
+
+--- doc6.txt ---
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These attacks aim to access, change, or destroy sensitive information or interrupt normal business processes.
