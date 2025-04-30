@@ -9,7 +9,7 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib import colors
 
 # Load dataset
-dataset_path = "C:/Users/Gaurav Bile/Videos/1Study/SKY internship/Plagiarism Detection System/plagiarism_dataset.txt"
+dataset_path = "plagiarism_dataset.txt"
 with open(dataset_path, 'r', encoding='utf-8') as file:
     dataset = file.readlines()
 
